@@ -12,5 +12,5 @@ TOTAL=$(($COST_PINEAPPLE + $COST_BANANA * 2 + $COST_WATERMELON * 3 + $COST_BASKE
 
 # Pour utiliser les opérateurs basic, les mettre entre parenthèses de parenthèses.
 # $ devant la parenthèse et devant chaque variable a énuméré
-
+# 
 echo "Total Cost is $TOTAL" 128
