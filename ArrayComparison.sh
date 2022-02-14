@@ -1,4 +1,4 @@
-	#!/bin/bash
+	#!/bin/zsh
 	# enter your array comparison code here
   #In this exercise, you will need to compare three list of arrays and write the common elements of all the three arrays:
 
