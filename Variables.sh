@@ -6,4 +6,4 @@ Presents=10 # Stock un entier
 BIRTHDAY=Saturday  # Stock un entier
 
 echo $BIRTHDATE, $BIRTHDAY, $Presents
-# Diffèrencier entier et chaine de caractère
+# Entier et chaine de caractère
