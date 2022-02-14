@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/zsh
 # modifier ces variables
 NOMBRE=10
 POMMES=12
