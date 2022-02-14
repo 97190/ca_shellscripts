@@ -7,4 +7,4 @@
 # Afficher les nombres de la variable number
 numbers=123
 echo ${numbers}
-test 
+
